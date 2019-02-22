@@ -1,1 +1,2 @@
-# ShubhamParab-Data-Science-Python
+# Data Science
+Contains implementation of machine learning models using Python
